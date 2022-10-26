@@ -1,7 +1,12 @@
-h2 {
-    font: brown;
+.subtitulo {
+    color : brown;
 }
 
 body {
     background: burlywood;
+}
+
+.tabela {
+    background: blueviolet;
+    color: white;
 }
